@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ashaney
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ashaney.github.io
+  * I am ashaney (https://keybase.io/ashaney) on keybase.
+  * I have a public key with fingerprint 0559 8E8C 7A8C C8E9 EA80  CFE6 D6AF F1C2 1BF0 E558
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101754fb8bc271679f77e44173ca257b7d7b4b40d2f2a21a2c0d617fce55eabca290a",
+      "fingerprint": "05598e8c7a8cc8e9ea80cfe6d6aff1c21bf0e558",
+      "host": "keybase.io",
+      "key_id": "d6aff1c21bf0e558",
+      "kid": "0101754fb8bc271679f77e44173ca257b7d7b4b40d2f2a21a2c0d617fce55eabca290a",
+      "uid": "3a7f5b9639c7b5aed422890df4d8a319",
+      "username": "ashaney"
+    },
+    "service": {
+      "hostname": "ashaney.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516161158,
+  "expire_in": 157680000,
+  "prev": "df16383fa969c7278084df384af338ea7b3eeefd05017ea020370024e439361f",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJdSBRRGN1tK01IKojUMmKgH2qTO793ZivRoB/roags2szlzsy97qTt
+bLOz6iaSUZkoFLUhVPYQRC+9hVD6UJsElfb3EhkaZqlEJRaireZKd6wegh679+Fy
+v3vOuec7fA/ne1wZ7lmfC6+IqRvd7q4HLVGXv/RxfQ2jmnqM8dUw5XjmwBU6jtiB
+ckNnfAxgAQtFgaiyqnGQlaBCIMSCwEJeQ5wIVahDVVAFoHOEQxyLOA3oEguJhkUR
+I5WCFIAYL0OMUBm2wpYRsh1ZUVRkLGsQyZomYwUjGWgES7qECGE1jlUJoAIyJQbN
+iMOg5lQUwXmGSWv0Epix9w/8f/YdnZHjESSiqki8okFVRFgXOE5WgE4EXUY8qzjA
+CLZC6CimaBQJohANs9bL0GKloWEnV6eRvwF5ZYYdjKq/egpbpm1qZgV9Dtp2OOJz
+6HYs7OCrsBr4rRRQjZBOs6SMSmxFDDPE+FiK1GzDkWZFVqKbFWUvg6vDhoUDhoMQ
+oSQDupx/cKWTHGElXuYJUiTaEwdlIAs64WUBEZ6XMYIqjzEmOhBpkBgBDvAQAE7A
+Aq/wEksYp7djIZNqQ+oTlVHNiFEWQnbUwkxtR6Jktsud4Zo7Z5YzZK6MeQv+jF6v
+P93VtOtBr9m9enH+dPaJ9Ef54+0P76aG41+LG/xTh/K3c3vvd2yMT55Fsdat63qO
+p3XNTw8uuvC8vbXPLOhcrhbuHj4zOrr4dH9R6YeeJ2s3F6ElTdaI3VmB2kb3Fbhf
+v69LfTtfu6dqYlNJTk7uiv7DQj2Ij12Mvenz3zqeXPZ++sedIe/E5fjKp80j1TfT
+oMcz8DEW9Fx/ufPd6RuTpDgTj0mVWS1Lt2wYfLEtUf8Wnju5an9RVhJ8//SjcWH/
+wGDPlr6OTCtxO6O0+XxyUMtq7M7d9mG93pbrfbXVfS8zlZd9ac2zpoPpxtVxpvzL
+1I7HR9KCQ8m61KmRrJJA4nrDtQM/AX0PS98=
+=j+Oj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ashaney
+
+==================================================================

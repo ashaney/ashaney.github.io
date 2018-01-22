@@ -3,7 +3,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>Cryptocurreny Ticker</title>
+    <title>Ticker</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="https://use.fontawesome.com/5cebd8ecef.js"></script>
     <style>
@@ -111,6 +111,9 @@
             setInterval(getBtcPrice, 2000);
             setTimeout(function() {
                 setInterval(getEthPrice, 2000);
+            }, 1000);
+            seTimeout(function() {
+                setInterval(getLtcPrice, 2000);
             }, 1000);
             
         });

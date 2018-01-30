@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ashaney.github.io/index.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/github-mark-light-120px-plus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/twitter_social_icon_circle_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/wplogo.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

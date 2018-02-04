@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ashaney.github.io/index.html</loc>
-    <lastmod>2018-01-29</lastmod>
+    <lastmod>2018-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,6 +13,15 @@
     </image:image>
     <image:image>
       <image:loc>https://ashaney.github.io/images/wplogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/display%20of%20stock%20market.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/sunset%20view%20of%20torii%20gate,%20miyajima,%20japan-crop-u429.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ashaney.github.io/images/computer%20keyboard-crop-u439.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

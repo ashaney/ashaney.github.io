@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ashaney.github.io" resolutions="1x" timestamp="1517704987839">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ashaney.github.io" resolutions="1x" timestamp="1517706671789">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4112565598" ref="index"/>
-    <file name="index.css" crc="4087013149" ref="index"/>
+    <file name="master_a-master.css" crc="36944156" ref="index"/>
+    <file name="index.css" crc="4066300271" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,15 +31,15 @@
       <caption webpage="stock" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
-    <file name="display of stock market.jpg" crc="112640629" seo="true" ref="index">
+    <file name="display of stock market.jpg" crc="256789464" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sunset view of torii gate, miyajima, japan-crop-u429.jpg" crc="27325170" seo="true" ref="index">
+    <file name="sunset view of torii gate, miyajima, japan-crop-u429.jpg" crc="66553944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="computer keyboard-crop-u439.jpg" crc="107781479" seo="true" ref="index">
+    <file name="computer keyboard-crop-u439.jpg" crc="4126428276" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="299509484" seo="true" mt="1517704979787" redirect="true"/>
+  <file name="index.html" crc="4083229031" seo="true" mt="1517706664109" redirect="true"/>
 </manifest>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ashaney.github.io" resolutions="1x" timestamp="1517706671789">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ashaney.github.io" resolutions="1x" timestamp="1517707383111">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="36944156" ref="index"/>
-    <file name="index.css" crc="4066300271" ref="index"/>
+    <file name="master_a-master.css" crc="3894030857" ref="index"/>
+    <file name="index.css" crc="39223265" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,21 +15,21 @@
   <folder name="images">
     <file name="github-mark-light-120px-plus.png" crc="61295073" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="japan" alt=""/>
-      <caption webpage="stock" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="stock" alt=""/>
+      <caption webpage="japan" alt=""/>
     </file>
     <file name="twitter_social_icon_circle_white.png" crc="4140843176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="japan" alt=""/>
-      <caption webpage="stock" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="stock" alt=""/>
+      <caption webpage="japan" alt=""/>
     </file>
     <file name="wplogo.png" crc="4127714993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="japan" alt=""/>
-      <caption webpage="stock" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="stock" alt=""/>
+      <caption webpage="japan" alt=""/>
     </file>
     <file name="display of stock market.jpg" crc="256789464" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -41,5 +41,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4083229031" seo="true" mt="1517706664109" redirect="true"/>
+  <file name="index.html" crc="207402693" seo="true" mt="1517707373537" redirect="true"/>
 </manifest>

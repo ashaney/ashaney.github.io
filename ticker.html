@@ -141,7 +141,7 @@ incorporate CMC API for more coins-->
         function getPrice(currency) {
             var currentPrice = new XMLHttpRequest();
 
-            currentPrice.open('GET', 'https://api.gdax.com/products/' + currency + '-USD/book', true);
+            currentPrice.open('GET', 'https://api.pro.coinbase.com/products/' + currency + '-USD/book', true);
             currentPrice.onreadystatechange = function () {
                 if (currentPrice.readyState == 4) {
                     var ticker = JSON.parse(currentPrice.responseText);

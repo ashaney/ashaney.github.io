@@ -129,19 +129,19 @@ incorporate CMC API for more coins-->
         const lblprice = document.querySelector('.price');
 
         function getBtcPrice() {
-            getPrice("BTC");
+            getPrice("btc");
         }
         function getEthPrice() {
-            getPrice("ETH");
+            getPrice("eth");
         }
         function getLtcPrice(){
-            getPrice("CHAINLINK");
+            getPrice("link");
         }
 
         function getPrice(currency) {
             var currentPrice = new XMLHttpRequest();
 
-            currentPrice.open('GET', 'https://api.pro.coinbase.com/products/' + currency + '-USD/book', true);
+            currentPrice.open('GET', 'https://api.pro.coinbase.com/products/' + currency + '-usd/book', true);
             currentPrice.onreadystatechange = function () {
                 if (currentPrice.readyState == 4) {
                     var ticker = JSON.parse(currentPrice.responseText);

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ashaney
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ashaney.github.io
+  * I am ashaney (https://keybase.io/ashaney) on keybase.
+  * I have a public key ASAe4HU6FXa6Gp66Ua7GGwMJTUuDZGw-zfQ8iEBeNDXlcgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101754fb8bc271679f77e44173ca257b7d7b4b40d2f2a21a2c0d617fce55eabca290a",
+      "host": "keybase.io",
+      "kid": "01201ee0753a1576ba1a9eba51aec61b03094d4b83646c3ecdf43c88405e3435e5720a",
+      "uid": "3a7f5b9639c7b5aed422890df4d8a319",
+      "username": "ashaney"
+    },
+    "merkle_root": {
+      "ctime": 1716563471,
+      "hash": "354dbe889ef4596b098e9235a1e4312f0ac82b66bec746a64879e6a1c13fb3477f943d1cf9a85e2b051baec3a5ef431ca7a4ca4866e4f3fda6905696aedeaf90",
+      "hash_meta": "20269f6250368c562eb556344100b4c57346f59dd78befc8c766cafaa78ede74",
+      "seqno": 25755695
+    },
+    "service": {
+      "entropy": "RkM1sRYqkuxcH8xpqCrtxHD6",
+      "hostname": "ashaney.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1716563476,
+  "expire_in": 504576000,
+  "prev": "a43215801b422d6b91a8130732a2f93a99eb6e2cc9fed387d468560545097c78",
+  "seqno": 63,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHuB1OhV2uhqeulGuxhsDCU1Lg2RsPs30PIhAXjQ15XIKp3BheWxvYWTESpcCP8QgpDIVgBtCLWuRqBMHMqL5OpnrbizJ/tOH1GhWBUUJfHjEIHY6hoy9TXhHQOps1uygrhdAsZFZlK9OIovkaKGrjXX+AgHCo3NpZ8RAesPSpOQf2tofFfmDgPzE3CyD6NAYeDQM0VQbRY843jgMITS38n8IdZFk1Vzm0hH8n7Q0j+L1OFMeSSs5s8oNBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINcAEWwyqQQcZeKyEg95ZEU5dxcUR6tGxd7fSI6EERAEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ashaney
+
+==================================================================
